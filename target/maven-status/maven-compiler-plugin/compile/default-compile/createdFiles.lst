@@ -1,0 +1,6 @@
+com\example\howtodoinjava\schemas\school\CapitalCityRequest.class
+com\example\howtodoinjava\schemas\school\ObjectFactory.class
+com\example\howtodoinjava\schemas\school\CapitalCityResponse.class
+com\example\howtodoinjava\springbootsoapclient\SpringBootSoapClientApplication.class
+com\example\howtodoinjava\springbootsoapclient\Config.class
+com\example\howtodoinjava\springbootsoapclient\SOAPConnector.class
